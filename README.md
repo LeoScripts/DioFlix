@@ -1,7 +1,11 @@
 # DioFlix
+projeto desenvolvido em desafio na Digital Innovation One
 
-#### São necessarios os componentes abaixo para o perfeito funcionamento do projeto.
+## pre-requisitos
+- Vscode
+- Live Server
 
-<img src="/img/vscode.png" alt="vscode"/>
-<img src="/img/live-server.png" alt="live-server"/>
-<img src="/img/executando.png" alt="executando"/>
+## Execução
+- abra a pasta do projeto no vscode e com o mouse em cima do `index.html` com o botao direito do mouse selecione `Open With live server`
+
+> sera aberta uma nova aba no su navegador com o projeto em execução
